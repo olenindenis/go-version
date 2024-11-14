@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Go Reference](https://pkg.go.dev/badge/github.com/olenindenis/go-version.svg)](https://pkg.go.dev/github.com/olenindenis/go-version)
-[![Go Report Card](https://goreportcard.com/badge/github.com/olenindenis/vault-extractor)](https://goreportcard.com/report/github.com/olenindenis/vault-extractor)
+[![Go Report Card](https://goreportcard.com/badge/github.com/olenindenis/go-version)](https://goreportcard.com/report/github.com/olenindenis/go-version)
 
 
 This package helps to include version info to your go application.
